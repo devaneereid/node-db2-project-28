@@ -12,7 +12,7 @@
         "nodemon": "^2.0.2"
     },
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "helmet": "^3.22.0",
         "install": "^0.13.0",
         "knex": "^0.20.14",
